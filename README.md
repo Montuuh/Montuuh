@@ -5,6 +5,6 @@
 - 📫 How to reach me: dmontufo@gmail.com
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Montuuh&theme=great-gatsby&count_private=true&show_icons=true" width="60%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montuuh&theme=great-gatsby&count_private=true&show_icons=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Montuuh&theme=great-gatsby&count_private=true&show_icons=true" object-fit="contain"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montuuh&theme=great-gatsby&count_private=true&show_icons=true&layout=compact" object-fit="contain"/>
 </p>
