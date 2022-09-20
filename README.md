@@ -4,4 +4,7 @@
 - 🌱 I’m currently learning Videogame Design and Development at CITM
 - 📫 How to reach me: dmontufo@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Montuuh)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Montuuh&theme=great-gatsby&count_private=true&show_icons=true" width="42%"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Montuuh&theme=great-gatsby&count_private=true&show_icons=true&layout=compact"/>
+</p>
