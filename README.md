@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Web Software Developer in STP Group
+- 🔭 I’m currently working as a Web Software Developer for STP Group
 - 🌱 I’m studying Videogame Design and Development at CITM
 - 📫 How to reach me: dmontufo@gmail.com
 
